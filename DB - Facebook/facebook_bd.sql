@@ -1,0 +1,1 @@
+xamSELECT * FROM facebook_bd.mural;
